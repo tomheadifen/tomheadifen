@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on various products to self deploy
+- 🔭 I’m a senior developer in Toronto
 - 💬 Ask me about my philosophy on code
 - 📫 How to reach me: Linkedin
